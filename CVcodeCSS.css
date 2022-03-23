@@ -1,6 +1,48 @@
 
 
-body{}
+body{
+  background-color: #D0EFB5;
+}
+
+a:hover{
+  color: #EB7878;
+}
+
+div{
+  color:#2F3E75;
+  background-color: #F3E595;
+}
+
+
+.un{
+  color: #D0EFB5;
+}
+
+.deux{
+  color: #2F3E75;
+}
+
+#trois{
+  color: #EB7878;
+}
+
+#quatre{
+  color: #F3E595;
+}
+
+#cinq{
+  background-color: #EB7878;
+  color: #2F3E75;
+}
+
+
+
+
+
+
+
+
+
 
 p{
 	padding: 2px;
